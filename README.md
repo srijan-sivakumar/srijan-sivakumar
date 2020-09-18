@@ -9,6 +9,3 @@ Apart from that I sometimes tinker around with some small projects. I've been al
 I would be happy if anyone would love to contribute to these projects. It can be even something as basic as adding a semi-colon...that's how I started way back..
 
 For those looking to learn some basics of glusterfs, I have written some blog posts, you can refer to them : [Glusterfs](https://medium.com/@sivakumarsrijan/the-glusterfs-journey-3439bd971c5e?source=friends_link&sk=ae7f28d590d0c0345ee7a115e2563468)
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srijan-sivakumar&show_icons=true" alt="srijan-sivakumar" /></p>
