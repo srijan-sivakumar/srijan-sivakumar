@@ -1,6 +1,6 @@
 ### Hi there universe ( well for now humans and web crawlers) 👋
 
-I'm a software engineer currently working on [Gluster](https://github.com/gluster), it is a Free and Open source clustered network filesystem.
+I'm a software engineer currently contributing to [Gluster](https://github.com/gluster), it is a Free and Open source clustered network filesystem.
 
 Apart from that I sometimes tinker around with some small projects. I've been also working on..
 1. [json-c-wrapper](https://github.com/srijan-sivakumar/json-c-wrapper)
